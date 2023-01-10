@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195750783102",
+    "project_id": "kunke-naturals",
+    "storage_bucket": "kunke-naturals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195750783102:android:f9c08ecce79bd1c4cb102f",
+        "android_client_info": {
+          "package_name": "com.kunkenaturals.kunkeAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195750783102-1f8foee3bnfresibsmkm1uf1joa8arot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgpPSLXowv-bymLJwodE0W7ZqVcMQ2ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195750783102-1f8foee3bnfresibsmkm1uf1joa8arot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
